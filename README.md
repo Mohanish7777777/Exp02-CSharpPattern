@@ -28,8 +28,8 @@ If the condition fails, print the number using the formula. value=value*(i-j+1)/
 
 ## Program:
 
-### DEVELOPED BY : NAVEEN S
-### REG NO : 212222240070
+### DEVELOPED BY : Mohanish K
+### REG NO : 212222100028
 ```
 using System;
 public class Pattern
